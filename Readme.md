@@ -13,7 +13,3 @@ This repository contains Assignment 01 for SE4050 - Deep Learning at SLIIT. The 
 The dataset used for this project consists of historical stock prices for the International Business Machines Corporation (IBM), an American multinational technology corporation headquartered in Armonk, New York, with operations in over 171 countries.
 
 The dataset is available on [Kaggle](https://www.kaggle.com/datasets/ranugadisansagamage/ibm-stocks?select=IBM.csv).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
